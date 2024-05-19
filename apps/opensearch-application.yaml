@@ -12,7 +12,7 @@ spec:
   source:
     path: charts/opensearch
     repoURL: https://github.com/pbak-pjatk/test-deployment.git #TODO Update me
-    targetRevision: may-2024-test
+    targetRevision: HEAD
   syncPolicy:
     automated:
       prune: true
